@@ -1,0 +1,10 @@
+{
+  "name": "cloud-serverless-checkpoint1",
+  "version": "1.0.0",
+  "description": "Funcao serverless que responde a requisicoes HTTP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node local.js"
+  },
+  "license": "MIT"
+}
